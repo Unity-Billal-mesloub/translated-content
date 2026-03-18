@@ -2,7 +2,7 @@
 
 :tada: First of all, thanks for taking the time to contribute to [MDN Web Docs](https://developer.mozilla.org)' translated content! :tada:
 
-The following is a set of guidelines for contributing to the [translated content of MDN Web Docs](https://github.com/mdn/translated-content), which is hosted within the [MDN Organization](https://github.com/mdn) on GitHub.
+The following is a set of guidelines for contributing to the [translated content of MDN Web Docs](https://github.com/Unity-Billal-mesloub/translated-content), which is hosted within the [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub) on GitHub.
 
 [Guidelines for peers can be found here](PEERS_GUIDELINES.md).
 
